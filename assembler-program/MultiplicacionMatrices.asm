@@ -1,3 +1,10 @@
+;Realizar mutiplicacion de matrices, que consiste en tener dos arreglos que el primer arreglo de la primera
+;fila multiplicara a todas las columnas del segundo arreglo, para poder guardar así los resultados
+;en un tercer arreglo que almacenara todos los resultados de dichas multiplicaciones y esto es
+;para que principalmente sean desarrolladas las habilidades, como la lógica, el dominio del
+;lenguaje ensamblador, y para así poder correrlo en el emulador.
+
+
 DATOS SEGMENT PARA PUBLIC DATA 
     
 ;-------------------------------------------------------------------------------------------
